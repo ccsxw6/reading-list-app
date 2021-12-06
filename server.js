@@ -18,8 +18,9 @@ app.use(routes);
 
 // Connect to the Mongo DB
 // mongoose.connect(process.env.MONGODB_URI || "mongodb://localhost/reactreadinglist");
+// CHANGING DB TO readinglist from reactreadinglist!!!!!!
 mongoose.connect(
-  process.env.MONGODB_URI || 'mongodb://localhost/reactreadinglist',
+  process.env.MONGODB_URI || 'mongodb://localhost/readinglist',
   {
     useNewUrlParser: true,
     useUnifiedTopology: true,
