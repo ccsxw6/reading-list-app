@@ -9,7 +9,7 @@
 
 ## Installation
 Link to website:
-[Web App Link](https://reading-app-list.herokuapp.com/)
+[Web App Link](https://hidden-fortress-30219.herokuapp.com/)
 
 ## Technologies used
 This project used the following technologies
